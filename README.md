@@ -3,7 +3,7 @@
 **`Desenvolvedor`**
 
 Eu sou o Henrique, tenho 17 anos e moro em São Paulo, SP.
-Conclui o ensino médio na Escola Pinheiro. Atualmente estou cursando Bacharelado em Sistemas de Informação no Senac. Possuo conhecimentos das linguagens C#, Python e no framework .NET.
+Conclui o ensino médio na Escola Pinheiro. Atualmente estou cursando Bacharelado em Sistemas de Informação no Senac. 
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -24,3 +24,11 @@ Conclui o ensino médio na Escola Pinheiro. Atualmente estou cursando Bacharelad
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/C#/C#-original.svg" 
+    />
