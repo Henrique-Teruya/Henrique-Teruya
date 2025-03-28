@@ -2,8 +2,9 @@
 
 **`Desenvolvedor`**
 
-Eu sou o Henrique, tenho 17 anos e moro em São Paulo, SP.
-Conclui o ensino médio na Escola Pinheiro. Atualmente estou cursando Bacharelado em Sistemas de Informação no Senac. 
+Eu sou o Henrique, tenho 18 anos e moro em São Paulo, SP.
+Conclui o ensino médio na Escola Pinheiro. 
+Atualmente estou cursando Bacharelado em Sistemas de Informação no Senac. 
 
 
 ### 🤖 Linguagens e Tecnologias
