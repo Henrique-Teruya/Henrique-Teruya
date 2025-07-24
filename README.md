@@ -11,8 +11,8 @@ Atualmente estou cursando Bacharelado em Sistemas de Informação no Senac.
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
