@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Henrique Teruya
+# 👨🏻‍💻 Henrique Teruya
 
 **`Desenvolvedor`**
 
