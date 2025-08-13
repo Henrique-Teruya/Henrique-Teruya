@@ -4,7 +4,7 @@
 
 Eu sou o Henrique, tenho 18 anos e moro em São Paulo, SP.
 Conclui o ensino médio na Escola Pinheiro. 
-Atualmente estou cursando Bacharelado em Sistemas de Informação no Senac. 
+Atualmente estou cursando Sistemas de Informação no Sistema de Ensino Nacional Comercial (SENAC) 
 
 
 ### 🤖 Linguagens e Tecnologias
