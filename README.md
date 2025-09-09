@@ -31,5 +31,12 @@ Atualmente estou cursando Sistemas de Informação no Sistema de Ensino Nacional
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-    />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  
+/>
+<img 
+    align="left" 
+    alt="sql" 
+    title="sql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg"  
