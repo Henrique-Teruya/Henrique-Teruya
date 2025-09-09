@@ -39,5 +39,5 @@ Atualmente estou cursando Sistemas de Informação no Sistema de Ensino Nacional
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg"  
+    src="https://cdn.iconscout.com/icon/free/png-256/sql-43-722523.png"  
 />
