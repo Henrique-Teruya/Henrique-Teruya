@@ -56,7 +56,7 @@ Atualmente estou cursando Sistemas de Informação no [Serviço Nacional de Apre
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 <img
     align="left" 
