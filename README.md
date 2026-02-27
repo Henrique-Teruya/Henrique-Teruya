@@ -121,6 +121,6 @@ Atualmente estou cursando Bacharelado em Sistemas de Informação no [Serviço N
         title="Gmail"
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mail/mail-original.svg"
+        src="file:///Users/henrique/Downloads/gmail-svgrepo-com.svg"
     />
 </a>
