@@ -121,6 +121,6 @@ Atualmente estou cursando Bacharelado em Sistemas de Informação no [Serviço N
         title="Gmail"
         width="30px" 
         style="padding-right: 10px;" 
-        src="file:///Users/henrique/Downloads/gmail-svgrepo-com.svg"
+        src="https://github.com/Henrique-Teruya/Henrique-Teruya/blob/main/gmail.svg"
     />
 </a>
