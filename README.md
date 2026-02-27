@@ -3,7 +3,7 @@
 **`Desenvolvedor`**
 
 Eu sou o Henrique, tenho 18 anos e moro em São Paulo, SP.  
-Trabalho como Desenvolvedor Front-end pela [SKR](https://www.skr.com.br) 
+Trabalho como Desenvolvedor Front-end pela [SKR](https://www.skr.com.br).  
 Atualmente estou cursando Bacharelado em Sistemas de Informação no [Serviço Nacional de Aprendizagem Comercial (SENAC)](https://www.sp.senac.br/).
 
 ---
@@ -105,6 +105,22 @@ Atualmente estou cursando Bacharelado em Sistemas de Informação no [Serviço N
 
 ### 📫 Contato
 
-[![LinkedIn](https://www.linkedin.com/favicon.ico)](https://www.linkedin.com/in/henrique-teruya)
+<a href="https://www.linkedin.com/in/henrique-teruya-de-queiroz/">
+    <img 
+        alt="LinkedIn" 
+        title="LinkedIn"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+    />
+</a>
 
-[![Email](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg)](mailto:henriqueturuya@gmail.com)
+<a href="mailto:henrique.teruya7@gmail.com">
+    <img 
+        alt="Gmail" 
+        title="Gmail"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
+    />
+</a>
