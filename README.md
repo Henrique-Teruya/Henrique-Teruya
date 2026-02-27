@@ -3,8 +3,8 @@
 **`Desenvolvedor`**
 
 Eu sou o Henrique, tenho 18 anos e moro em São Paulo, SP.  
-Concluí o ensino médio na Escola Pinheiro.  
-Atualmente estou cursando Sistemas de Informação no [Serviço Nacional de Aprendizagem Comercial (SENAC)](https://www.sp.senac.br/).
+Trabalho como Desenvolvedor Front-end pela [SKR](skr.com.br)
+Atualmente estou cursando Bacharelado em Sistemas de Informação no [Serviço Nacional de Aprendizagem Comercial (SENAC)](https://www.sp.senac.br/).
 
 ---
 
