@@ -106,4 +106,4 @@ Atualmente estou cursando Sistemas de Informação no [Serviço Nacional de Apre
 ### 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/henrique-teruya-de-queiroz/)
-[Email](henrique.teruya7@gmail.com)
+[Email](mailto:henrique.teruya7@gmail.com)
