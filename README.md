@@ -98,7 +98,6 @@ Atualmente estou cursando Bacharelado em Sistemas de Informação no [Serviço N
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-    href="https://www.skr.com.br"
 />
 <br/><br/>
 
@@ -106,5 +105,6 @@ Atualmente estou cursando Bacharelado em Sistemas de Informação no [Serviço N
 
 ### 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/henrique-teruya-de-queiroz/)
-[Email](mailto:henrique.teruya7@gmail.com)
+[![LinkedIn](https://www.linkedin.com/favicon.ico)](https://www.linkedin.com/in/henrique-teruya)
+
+[![Email](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg)](mailto:henriqueturuya@gmail.com)
